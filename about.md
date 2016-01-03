@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a frontend developer working in Madrid, Spain. 
 
-### More Information
+### Discovering the Front side
 
-A place to include any other types of information that you'd like to include about yourself.
+I used to be a backend developer, but in 2014 I started to get interest in web design. In this page I will add all the personal projects to keep improving in this area. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cristinafsanz@gmail.com](mailto:cristinafsanz@gmail.com)
