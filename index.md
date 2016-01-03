@@ -18,7 +18,7 @@ After that, I discovered Bootstrap and I wanted to create another web page using
 <a href="http:///cristinafsanz.github.io/alcelavistaytevimadrid" target="_blank">I lookep up and I saw you, Madrid</a>
 
 
-Screenshots 2 designs:
+Screenshots both projects
 -------------
 
 [![Teenagers help center]({{ site.baseurl }}/images/teenagers-help-center.png)](http://www.centro-ayuda-adolescentes.es)
