@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 ---
 
-When I realized that I wanted to learn web design, I started a 6 months course in Madrid. As a final project, I did a web page for a friend about psychology and teenagers. This is the page that I did, only using HTML5, CSS and JQuery:
+When I realized that I wanted to learn web design, I started a 6 months course in Madrid. As a final project, I did a web page for a friend about psychology and teenagers. This is the page that I did, using HTML5, CSS and JQuery:
 
 <a href="http://www.centro-ayuda-adolescentes.es" target="_blank">Teenagers help centre</a>
 
