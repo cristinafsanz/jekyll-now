@@ -5,7 +5,7 @@ title: Projects
 
 <h2>Teenagers help center</h2>
 <div class="project-preview">
-  <a href="http://www.centro-ayuda-adolescentes.es" alt="Teenagers help center">
+  <a href="http://www.centro-ayuda-adolescentes.es" alt="Teenagers help center" target="_blank">
     <img src="{{ site.baseurl }}/images/teenagers-help-center.png" />
   </a>
   <div class="explanation">
@@ -15,7 +15,7 @@ title: Projects
 
 <h2>I lookep up and I saw you, Madrid</h2>
 <div class="project-preview">
-  <a href="http://cristinafsanz.github.io/alcelavistaytevimadrid" alt="I lookep up and I saw you, Madrid">
+  <a href="http://cristinafsanz.github.io/alcelavistaytevimadrid" alt="I lookep up and I saw you, Madrid" target="_blank">
     <img src="{{ site.baseurl }}/images/look-up-and-show-you-madrid.png" />
   </a>
   <div class="explanation">
@@ -25,7 +25,7 @@ title: Projects
 
 <h2>Gallery with my painting</h2>
 <div class="project-preview">
-  <a href="http://cristinafsanz.github.io/paintings" alt="Gallery with my paintings">
+  <a href="http://cristinafsanz.github.io/paintings" alt="Gallery with my paintings" target="_blank">
     <img src="{{ site.baseurl }}/images/paintings.png" />
   </a>
   <div class="explanation">
