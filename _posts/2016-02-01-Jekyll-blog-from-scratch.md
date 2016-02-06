@@ -28,13 +28,27 @@ Steps in the computer:
 
 	git checkout -b gh-pages
 
-- Add the index.html and see the result executing 'jekyll serve' and open a browser in http://localhost:4000/project-name
+- Add the index.html 
+
+- Create a _config.yml file that tells Jekyll some basics about my project. In this example, I'm telling Jekyll the name of my site and what version of Markdown we'd like to use. Moreover, I add the url for sitemap.xml and baseurl to specify the repository as I use Project pages.
+
+        name: My project name
+
+        markdown: kramdown
+
+        url: http://username.github.io/project-name/
+
+        baseurl: "/project-name"
+
+- See the result executing 'jekyll serve' and open a browser in http://localhost:4000/project-name
 
 - After doing changes, do the Commit and push to Github
 
 	git add index.html
 
-	git commit index.html -m “Add first code”
+	git add _config.yml
+
+	git commit -m "Add first code"
 
 	git push origin gh-pages
 
@@ -50,16 +64,6 @@ After that, I can add some styles creating a new css in css/main.css and link it
 In order for Jekyll to work with my site, I need to follow Jekyll's directory structure.
 
 - Create a .gitignore file to ignore the _site directory that Jekyll automatically generates each time I commit.
-
-- Create a _config.yml file that tells Jekyll some basics about my project. In this example, I'm telling Jekyll the name of my site and what version of Markdown we'd like to use. Moreover, I add the url for sitemap.xml and baseurl to specify the repository as I use Project pages.
-
-	name: My project name 
-	
-	markdown: kramdown
-	
-	url: http://username.github.io/project-name/
-	
-	baseurl: "/project-name"
 
 - Make a _layouts directory, and create file inside it called default.html. This is the main layout that will contain repeated elements like head and footer. So let's move those elements from index.html into default.html.
 
