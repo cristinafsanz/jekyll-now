@@ -57,15 +57,13 @@ Steps in the computer:
 
 Usually the first time the GitHub Pages site is created it takes 5-10 minutes to go live.
 
-After that, I can add some styles creating a new css in css/main.css and link it in the index.html.
-
 <h2>Setting up Jekyll:</h2>
 
 In order for Jekyll to work with my site, I need to follow Jekyll's directory structure.
 
 - Create a .gitignore file to ignore the _site directory that Jekyll automatically generates each time I commit.
 
-- Make a _layouts directory, and create file inside it called default.html. This is the main layout that will contain repeated elements like head and footer. So let's move those elements from index.html into default.html.
+- Make a _layouts directory, and create file inside it called default.html. This is the main layout that will contain repeated elements like `<head>` and `<footer>`. So let's move those elements from index.html into default.html.
 
 - Use the liquid tags {{ page.title }} in the title and {{ content }} inside the container section to inject content into the final web page.
 
@@ -76,14 +74,20 @@ In order for Jekyll to work with my site, I need to follow Jekyll's directory st
 
 This Front-matter will be processed by Jekyll. Every time I commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML document by replacing {{ content }} in_layouts/default.html with the contents of the committed file.
 
+- Add a main.css inside a folder css and link it in the default page to use it in all the pages:
+
+`<link rel="stylesheet" type="text/css" href="{{ "{{site.baseurl" }}}}/css/main.css" />`
+
+It is necessary to use {{ "{{ site.baseurl " }}}} when I use project pages, if I don't add it, it will try to find the css in http://username.github.io/css/main.css instead of http://username.github.io/project-name/css/main.css.
+
 
 <h2>Setting up a Blog</h2>
 
-- Create a new layout for the  blog posts called post.html and a folder to store each individual post called _posts/.
+- Create a new layout for the blog posts called post.html and a folder to store each individual post called _posts/.
 
 - The post.html can use the default layout and adds a couple new liquid tags to print the title of the post and date.
 
-- Make a _posts/ directory where we'll store the blog posts. Inside that folder will be the first post. It must follow the conventionYYYY-MM-DD-title-of-my-post.md. This file name gets translated into the permalink for the blog post.
+- Make a _posts/ directory where we'll store the blog posts. Inside that folder will be the first post. It must follow the convention YYYY-MM-DD-title-of-my-post.md. This file name gets translated into the permalink for the blog post.
 
 - In the Front-matter of the post I can add the layout, the title and the date:
 	layout: post
