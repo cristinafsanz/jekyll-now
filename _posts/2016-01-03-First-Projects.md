@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorials for GitHub pages
-permalink: /blog/
+date: 2016-01-02
 ---
 
 After doing my first 2 personal websites, I wanted to put them together in a web page. Then, people in my company talked about GitHub pages to host web pages and I thought that it would be a good idea to learn more about it.

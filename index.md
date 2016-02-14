@@ -23,7 +23,7 @@ title: Projects
   </div>
 </div>
 
-<h2>Gallery with my painting</h2>
+<h2>Gallery with my paintings</h2>
 <div class="project-preview">
   <a href="http://cristinafsanz.github.io/paintings" alt="Gallery with my paintings" target="_blank">
     <img src="{{ site.baseurl }}/images/paintings.png" />
