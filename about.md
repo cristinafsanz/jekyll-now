@@ -43,7 +43,7 @@ It is very easy to work with Jekyll. You can clone the repository and work local
 
 Apart from showing my designs, I decided to create a blog in my website to share ideas and information about my personal projects (code, design, useful tutorial, ...). This way, I learn about Jekyll blogs and contribute to the community at the same time.
 
-If you want to write a blog and you are a developer, this is your way to do it, you can clone the project, adding new files, commit and push them like a developer. Even you can edit them with vi in your console, the sky's the limit :)
+If you want to write a blog and you are a developer, this is your way to do it, you can clone the project, adding new files, commit and push them like a developer. Even you can edit the files with vi in your console, the sky's the limit :)
 
 Although with the tutorials that I told you before you won't have any problem of building a Jekyll blog, I'm going to summarize the things that you can have with Jekyll. You can research more about them if you are interested.
 
