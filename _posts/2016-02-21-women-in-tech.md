@@ -15,7 +15,7 @@ Another important aspect is that people use to listen more at the beginning and 
 
 In less than 2 weeks from now the Women Techmakers Madrid will take place in Campus Madrid and there will be very interesting talks with very interesting women, that will become the model of a lot of women like me. And one of them is a 9 years old girl that I met today, very sweet but also brave! 
 
-<a href="http://entradium.com/entradas/women-techmakers-madrid-2016?utm_campaign=entradas-wtm&utm_medium=email&utm_source=acumbamail" alt="Tickets Women Techmakers Madrid" target="_blank">Entradas para Women Techmakers Madrid</a>
+<a href="http://entradium.com/entradas/women-techmakers-madrid-2016?utm_campaign=entradas-wtm&utm_medium=email&utm_source=acumbamail" alt="Tickets Women Techmakers Madrid" target="_blank">Tickets for Women Techmakers Madrid</a>
 
 Talks for Women Techmakers Madrid (4 March 2016):
 
