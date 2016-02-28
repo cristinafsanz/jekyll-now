@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frontend designers should know UX?
+title: Should Frontend designers know UX?
 date: 2016-02-27
 ---
 
