@@ -33,9 +33,9 @@ Talks for Women Techmakers Madrid (4 March 2016):
 
 - Arduino and IoT (Internet of Tricks) (Isabel Cabeza and Carmen Checa)
 
-- Geb + Spock: long and prosperous life to your functional tests
+- Geb + Spock: long and prosperous life to your functional tests (Esther Lozano)
 
-- YouTuber, woman and 9 years old, ¿what can end bad? (Adriana Luengo)
+- YouTuber, woman and 9 years old, what can end bad? (Adriana Luengo)
 
 - Project and team management (Rita Madariaga)
 
