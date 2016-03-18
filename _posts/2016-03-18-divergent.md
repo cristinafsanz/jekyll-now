@@ -18,6 +18,6 @@ And in this point of the talk arose the big question: if a designer doesn't use 
 
 I have worked with 2 designers that didn't code the animations and I haven't had any problem in coding what they want to achieve. Sometimes it is a very nice idea but unrealistic (the very speaker said that he is called "the one with the fantasies" by the developers), but you can come to an agreement and do something cool. 
 
-If you work in web development, you have to communicate with designers, backend developers, the salesperson or the team leader. Each role has a different idea of the final product, but though communication and the use of different tools the same idea can be shared by the whole team. 
+If you work in web development, you have to communicate with designers, backend developers, the salesperson or the team leader. Each role has a different idea of the final product, but though communication, the use of different tools and examples from the web, the same idea can be shared by the whole team. 
 
 And maybe we can learn from each other: the designer can explain to us how they transform a client idea in a design and we can help them to code to let them create their own animations.
