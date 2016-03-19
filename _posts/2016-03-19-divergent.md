@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Divergent: A Frontend developer in a UX event
-date: 2016-03-18
+title: Divergent, a Frontend developer in a UX event
+date: 2016-03-19
 ---
 
 Last Friday I watched "Divergent" on TV and only 5 days later I was living the same experience! 
