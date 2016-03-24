@@ -5,7 +5,7 @@ title: Projects
 
 <h2>Teenagers help center</h2>
 <div class="project-preview">
-  <a href="http://www.centro-ayuda-adolescentes.es" alt="Teenagers help center" target="_blank">
+  <a href="http://www.centro-ayuda-adolescentes.es" alt="Teenagers help center">
     <img src="{{ site.baseurl }}/images/teenagers-help-center.jpg" />
   </a>
   <div class="explanation">
@@ -15,7 +15,7 @@ title: Projects
 
 <h2>I lookep up and I saw you, Madrid</h2>
 <div class="project-preview">
-  <a href="http://cristinafsanz.github.io/alcelavistaytevimadrid" alt="I lookep up and I saw you, Madrid" target="_blank">
+  <a href="http://cristinafsanz.github.io/alcelavistaytevimadrid" alt="I lookep up and I saw you, Madrid">
     <img src="{{ site.baseurl }}/images/look-up-and-show-you-madrid.jpg" />
   </a>
   <div class="explanation">
@@ -25,11 +25,11 @@ title: Projects
 
 <h2>Gallery with my paintings</h2>
 <div class="project-preview">
-  <a href="http://cristinafsanz.github.io/paintings" alt="Gallery with my paintings" target="_blank">
+  <a href="http://cristinafsanz.github.io/paintings" alt="Gallery with my paintings">
     <img src="{{ site.baseurl }}/images/paintings.jpg" />
   </a>
   <div class="explanation">
     When I discovered GitHub pages and Jekyll blogs, I thought that a good way to learn it would be to reuse a Jekyll theme for a nice website. As my father wanted to have a place with all his paintings, this was a good opportunity to practise the customization of Jekyll themes. This is the Jekyll theme that I used:
-<a href="http://gridster.digitalmind.ch/" target="_blank">http://gridster.digitalmind.ch/</a>.
+<a href="http://gridster.digitalmind.ch/">http://gridster.digitalmind.ch/</a>.
   </div>
 </div>

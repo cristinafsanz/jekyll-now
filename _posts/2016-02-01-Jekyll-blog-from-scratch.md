@@ -4,7 +4,7 @@ title: Jekyll blog from scratch
 date: 2016-02-01
 ---
 
-Now that I have tried different jekyll themes, it is time to start one from scratch. I will use a very useful tutorial: <a href="http://jmcglone.com/guides/github-pages" target="_blank">Creating and Hosting a Personal Site on GitHub</a> , that explains very well all the steps to do. The only thing that is different in my case is that I use Project Pages instead of User Pages, so I will specify here the differences. 
+Now that I have tried different jekyll themes, it is time to start one from scratch. I will use a very useful tutorial: <a href="http://jmcglone.com/guides/github-pages">Creating and Hosting a Personal Site on GitHub</a> , that explains very well all the steps to do. The only thing that is different in my case is that I use Project Pages instead of User Pages, so I will specify here the differences. 
 
 As I use project pages to be able to have all my projects in my Github account, I have to create a new repository:
 

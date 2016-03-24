@@ -34,7 +34,7 @@ Jekyll is commonly used to create blogs without using databases to store the web
 
 ### Creating my portfolio
 
-To start working with Jekyll I decided to follow the following tutorial, <a href="http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/" target="_blank">Build A Blog With Jekyll And GitHub Pages</a>, whose author suggested to fork his repository (jekyll-now) and start from there. I think it is a good advise to start understanding how Jekyll works. After doing 1 or 2 Jekyll blogs, you can start your Jekyll blog from scratch, with this tutorial <a href="http://jmcglone.com/guides/github-pages" target="_blank">Creating and Hosting a Personal Site on GitHub</a> for example.
+To start working with Jekyll I decided to follow the following tutorial, <a href="http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">Build A Blog With Jekyll And GitHub Pages</a>, whose author suggested to fork his repository (jekyll-now) and start from there. I think it is a good advise to start understanding how Jekyll works. After doing 1 or 2 Jekyll blogs, you can start your Jekyll blog from scratch, with this tutorial <a href="http://jmcglone.com/guides/github-pages">Creating and Hosting a Personal Site on GitHub</a> for example.
 
 It is very easy to work with Jekyll. You can clone the repository and work locally. You can see the results in http://localhost:4000/project-name if you run 'jekyll serve', so you don't have to push to Github until you tested before.
 
