@@ -53,16 +53,14 @@ With these tools you can have all of this:
 
 2. Apply the workflow in a web design: I will code the web design that I created in my graphic design course, use all the tools that I learnt and put it a Github page. I will research how to add also a blog to this page so that a non-tech person can add content (Prose.io or similar).
 
-3. Add a CV to my Project page: I think it is important to have your CV with your experience in the same page than your portfolio. I saw the one that Lea Verou has and it is simple but beautiful.
+3. Learn more about CSS (ex. Flexbox): do some tutorials (CodeHouse, Callmenick, CSS-Tricks, CSSDeck, Codrops), replicate awesome web designs, use Codepen to code them, add them to my Projects page and write posts about what I learnt.
 
-4. Learn CSS Flexbox layout module. Watch the codemotion talk "CSS3 Layouts - Flexbox vs CSS Grid' by Sara Vieira.
+4. Learn AngularJS in a proper way. Learn it from 1.5 to start using Components and be prepared for Angular 2.0.
 
-5. Learn AngularJS in a proper way. Learn it from 1.5 to start using Components and be prepared for Angular 2.0.
+5. Add a CV to my Project page: I think it is important to have your CV with your experience in the same page than your portfolio. I saw the one that Lea Verou has and it is simple but beautiful.
 
-6. Learn more about animations: do some tutorials, replicate awesome web designs, use Codepen to code them, add them to my Projects page and write posts about what I learnt.
+6. Improve some existing designs: improve Projects page and the New York blog that I am creating. Use own images, new content and some nice design. Add New York blog to Projects. I could use the Creative Tim Material design example or the Bootstrap template for developers from @3rdwave_themes and learn from what they did. I could learn also more about Material Design.
 
-7. Improve some existing designs: improve Projects page and the New York blog that I am creating. Use own images, new content and some nice design. Add New York blog to Projects. I could use the Creative Tim Material design example or the Bootstrap template for developers from @3rdwave_themes and learn from what they did. I could learn also more about Material Design.
-
-8. Do a course about User Experience Design to learn more about UX. 
+7. Do a course about User Experience Design to learn more about UX. 
 
 And what about you? What are your goals and how you prioritize them?
