@@ -34,6 +34,7 @@ In my case I have to finish a graphic design course and do the final project fir
 
 1. Automating your workflow: If you automate your workflow, you will have more time to do the important part: web development. I discovered this Zell View's book and I realized this is what I need first. I already use Yeoman, but there are many things that I don't do properly and I think that if I do it from scratch I will understand better the process and I will use the tools better. He speaks about the package managers, browser sync, sass, Susy, Webpack, SCSSLint, JSLint, Jasmine, useref, imagemin, Codekit, Grunt and Gulp. 
 
+	```
 	With these tools you can have all of this:
 
 	- Updating a file whenever it is changed
@@ -49,7 +50,7 @@ In my case I have to finish a graphic design course and do the final project fir
 	- Optimizing your CSS, Javascript, images
 
 	- Deploying your website with a simple command
-
+	```
 
 2. Apply the workflow in a web design: I will code the web design that I created in my graphic design course, use all the tools that I learnt and put it a Github page. I will research how to add also a blog to this page so that a non-tech person can add content (Prose.io or similar).
 
