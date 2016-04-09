@@ -16,7 +16,9 @@ However, I missed Spain and I decided to come back after my experience abroad. I
 
 I started to learn web design and I knew that I couldn't work as a web designer in my current company at that time because there were only work for one person, so I looked for another job to become a web designer/frontend developer.
 
-After a year being a frontend developer I am happy with the transition that I have done. I have worked in different roles, with very different people, in big, medium and small companies and I am more sure now about what I like and what I want from a company:
+After a year being a frontend developer I am happy with the transition that I have done, I have learnt a lot and I want to keep improving, there are so many things to learn in the front-end side!
+
+And if I look back at the past I am glad that I have worked in different roles, with very different people, in big, medium and small companies and I am more sure now about what I like and what I want from a company:
 
 - It is important that you like what you do everyday, but it is even more important to have a good relationship with your co-workers, to be happy sharing your time with them. 
 
@@ -29,7 +31,7 @@ After a year being a frontend developer I am happy with the transition that I ha
 - It is important to have a good salary and another benefits, like insurance coverage.
 
 
-If I find a company that gives me this, maybe it is time to settle down and don't be a job hopper anymore. I have seen a few companies in Spain that offer many of the things of my list, that worry about diversity, conciliation and flexible hours and I will look for them when I look for a job again. 
+If I am in a company that gives me this, maybe it is time to settle down and don't be a job hopper anymore. I have seen a few companies in Spain that offer many of the things of my list, that worry about diversity, conciliation and flexible hours and I will look for them if I look for a job again. 
 
-And there is a project that wants to share where these companies are, it is called <a href="http://www.yosoytumadre.com" alt="I am your mother" title="I am your mother">Yo soy tu madre</a>. It is a project for companies in Spain that want to help with balance. At the end everybody wins, because a happy worker is a productive worker. 
+And there is a project that wants to share where these companies are, it is called <a href="http://www.yosoytumadre.com/empresas_ti_conciliacion/" alt="I am your mother" title="I am your mother">Yo soy tu madre</a>. It is a project for companies in Spain that want to help with balance. At the end everybody wins, because a happy worker is a productive worker. 
 
