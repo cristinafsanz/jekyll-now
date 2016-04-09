@@ -22,7 +22,7 @@ And if I look back at the past I am glad that I have worked in different roles, 
 
 - It is important that you like what you do everyday, but it is even more important to have a good relationship with your co-workers, to be happy sharing your time with them. 
 
-- It is important that your company helps you to improve, by let you going to conferences, do courses to learn new technologies or improve the ones you have.  
+- It is important that your company helps you to improve, by let you go to conferences, do courses to learn new technologies or improve the ones you have.  
 
 - It is important the company culture, if they allow flexible hours, helps people to balance work-personal life, promote diversity and help underrepresented people to work with them (like women in tech).
 
