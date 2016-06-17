@@ -11,7 +11,7 @@ As a said in another posts, I am Front-end developer since March last year, but 
 Organizing tools
 -------------
 
-I use 2 types of calendar that I add to a physical board. The first is the usual one, where I write down the meetups/meetings/free time stuff/trips that are outside work. In the second one I write down what I would like to accomplished by month.
+I use 2 types of calendar that I add to a physical board. The first is the usual one, where I write down the meetups/meetings/free time stuff/trips, etc. With this first calendar I can see when I have time to learn. In the second one I write down the things that I would like to accomplished by month.
 
 <img src="../images/blog/calendars.png" alt="Calendars to organize" />
 
