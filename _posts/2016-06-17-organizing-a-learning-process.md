@@ -36,4 +36,4 @@ These are the tasks for this project:
 	
 * Resources: Free books to learn web design, articles
 
-* Ideas: Apply learning with personal projects, go to meetups/conferences, follow front-end cracks
+* Ideas: Apply learning with personal projects, go to meetups/conferences, follow people that are where you want to be in front-end development
