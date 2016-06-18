@@ -34,7 +34,7 @@ Improving front-end development tasks
 
 These are the tasks for this project:
 
-* Tasks: HTML, CSS & JS, SASS, PostCSS, Flexbox, responsive web design, best practices, workflow front-end development, accesibility, Material Design, UX
+* Tasks: HTML, CSS & JS, Sass, PostCSS, Flexbox, responsive web design, best practices, workflow front-end development, accesibility, Material Design, UX
 	
 * Resources: Free books to learn web design, articles
 
