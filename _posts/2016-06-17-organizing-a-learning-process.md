@@ -21,6 +21,8 @@ For that, I am going to start using Kanban with the open source tool <a href="ht
 
 The organization in the Kanban board is the usual for this method, that is, columns TO-DO, DOING and DONE. However, I have added a ADD-TO-BLOG column to write a little explanation, example or conclusion in the blog after finishing doing each task. This way, other people can take advantage of the time inverted there.
 
+<img src="../images/blog/taiga_kanban.jpg" alt="Taiga kanban" />
+
 
 Organizing tasks
 -------------
