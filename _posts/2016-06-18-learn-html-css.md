@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn HTML & CSS
-date: 2016-06-19
+date: 2016-06-18
 ---
 
 I learnt the basis of HTML5 & CSS2-CSS3 in a course in 2013/2014, but you can do it from scratch with a lot of online resources. I found a very good article <a href="https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.gehfwy62c" alt="From zero to Front-end hero">From zero to Front-end hero</a> where it explains how to start and keep learning HTML & CSS:

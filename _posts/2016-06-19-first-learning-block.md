@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Preprocessors, Postprocessors and automatic Workflow
-date: 2016-06-20
+date: 2016-06-19
 ---
 
 After organizing the <a href="https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban" alt="Kanban Learning Front-end development">learning Front-end development project</a>, I am going to start learning about Preprocessors (Sass for CSS and Jade or HAML for HTML), post-processors (PostCSS) and automatic workflow (with Gulp or Grunt):
