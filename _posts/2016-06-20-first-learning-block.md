@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Learning block&#58; Sass, PostCSS, Jade and Gulp
+title: Learning Preprocessors, Postprocessors and automatic Workflow
 date: 2016-06-20
 ---
 
