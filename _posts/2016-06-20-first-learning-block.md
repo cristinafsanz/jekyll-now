@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Learning block: Sass, PostCSS, Jade and Gulp"
+title: "First Learning block&#58; Sass, PostCSS, Jade and Gulp"
 date: 2016-06-20
 ---
 
