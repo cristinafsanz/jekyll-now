@@ -8,4 +8,8 @@ After organizing the <a href="https://tree.taiga.io/project/cristinafsanz-improv
 
 <img src="../images/blog/first_learning_block.jpg" alt="First learning block" />
 
-After learning this block I will apply the new concepts creating a web design, uploading the code in GitHub and sharing the results in the blog.
+After learning this block I will apply the new concepts creating a web design, uploading the code in GitHub and sharing the results in the blog. 
+
+Do you know free online resources for all of this? Right now I am focus on the <a href="https://www.codecademy.com/en/courses/learn-sass" alt="Sass course">Learn Sass course</a> from Codecademy, but I will add all the resources in the Taiga Kanban and in the blog while I am learning. 
+
+Wish me luck :)
