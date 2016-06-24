@@ -18,7 +18,7 @@ A couple of weeks ago I organized the learning project and last week I started m
 
 Is my behaviour something related to multipotentialite? Do I want to learn very different things and I can't focus in only one? Or is it maybe procrastination because I am afraid I won't improve my skills after the learning project?
 
-By the way, this is the first kind of "comic-illustration" to explain what had happened these two weeks. I think Illustrators don't have to be afraid of a new rival... And don't worry Sass, tomorrow we see us again :)
+By the way, this is the first kind of "comic-illustration" to explain what had happened these two weeks. I think Illustrators don't have to be afraid of a new rival... And don't worry Sass, tomorrow we see each other again :)
 
 
 <img src="../images/blog/learning_comic_colored.jpg" alt="Learning challenges comic" />
