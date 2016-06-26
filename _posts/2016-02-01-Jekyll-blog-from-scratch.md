@@ -72,7 +72,7 @@ In order for Jekyll to work with my site, I need to follow Jekyll's directory st
 
 	title: Index title
 
-This Front-matter will be processed by Jekyll. Every time I commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML document by replacing {{ content }} in_layouts/default.html with the contents of the committed file.
+This Front-matter will be processed by Jekyll. Every time I commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML document by replacing {{ "{{ content " }}}} in_layouts/default.html with the contents of the committed file.
 
 - Add a main.css inside a folder css and link it in the default page to use it in all the pages:
 
