@@ -18,7 +18,7 @@ It is good to have some goals to improve, but the hard part is to accomplish the
 
 If you have a full-time job, the free time you have is restricted. You want to socialize, be with your family, relax, do exercise, travel and many other things, but you also want to improve in your job, how can you do that? One possibility is trying to use new tools or technology in your work, but you have to have the time to learn it and incorporate it. The other possibility is to do it as a side project and then, use it in your work.
 
-A week ago I started to read the <a href="http://zellwk.com" alt="Zell Liew's site">Zell Liew's blog</a> and I realized that the questions I have are the questions a lot of people have. He says that a clue to do the next thing is asking yourself: Where do you want to go? What do you need? That's what you should learn next. 
+A week ago I started to read the <a href="http://zellwk.com">Zell Liew's blog</a> and I realized that the questions I have are the questions a lot of people have. He says that a clue to do the next thing is asking yourself: Where do you want to go? What do you need? That's what you should learn next. 
 
 Another important considerations that you have to take into account when you are doing a plan is something that I read in "Live your legend" blog:
 
