@@ -65,7 +65,7 @@ In order for Jekyll to work with my site, I need to follow Jekyll's directory st
 
 - Make a _layouts directory, and create file inside it called default.html. This is the main layout that will contain repeated elements like `<head>` and `<footer>`. So let's move those elements from index.html into default.html.
 
-- Use the liquid tags "{{ page.title }}" in the title and "{{ content }}" inside the container section to inject content into the final web page.
+- Use the liquid tags {{ "{{ page.title " }}}} in the title and {{ "{{ content " }}}} inside the container section to inject content into the final web page.
 
 - In the index.html, add the Front-matter at the top
 	layout: default
