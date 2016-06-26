@@ -4,7 +4,7 @@ title: Learning Sass
 date: 2016-06-26
 ---
 
-I am starting the learning process with Sass. I have decided to apply the concepts after learning PostCSS, automating the compilation to css with Gulp.
+I am starting the learning process with Sass and I have decided to apply the concepts after learning PostCSS, automating the compilation to css with Gulp.
 
 I have learnt the basis with <a href="https://www.codecademy.com/learn/learn-sass">Learn Sass - Codecademy</a>:
 
