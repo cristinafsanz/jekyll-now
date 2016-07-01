@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does a new idea emerge?
+title: How a new idea emerges
 date: 2016-07-01
 ---
 
