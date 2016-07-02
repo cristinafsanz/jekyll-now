@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://cristinafsanz.github.io/projects//feed.xml" rel="self" type="application/atom+xml" /><link href="http://cristinafsanz.github.io/projects//" rel="alternate" type="text/html" /><updated>2016-07-02T19:49:18+02:00</updated><id>http://cristinafsanz.github.io/projects//</id><title>Cristina Fernández Sanz</title><subtitle>Frontend Developer</subtitle><entry><title>How a new idea emerges</title><link href="http://cristinafsanz.github.io/projects//how-idea-emerge/" rel="alternate" type="text/html" title="How a new idea emerges" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//how-idea-emerge</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//how-idea-emerge/">&lt;p&gt;After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://cristinafsanz.github.io/projects//feed.xml" rel="self" type="application/atom+xml" /><link href="http://cristinafsanz.github.io/projects//" rel="alternate" type="text/html" /><updated>2016-07-02T20:21:44+02:00</updated><id>http://cristinafsanz.github.io/projects//</id><title>Cristina Fernández Sanz</title><subtitle>Frontend Developer</subtitle><entry><title>How a new idea emerges</title><link href="http://cristinafsanz.github.io/projects//how-idea-emerge/" rel="alternate" type="text/html" title="How a new idea emerges" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//how-idea-emerge</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//how-idea-emerge/">&lt;p&gt;After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?&lt;/p&gt;
 
 &lt;p&gt;As Steve Jobs said, “You can’t connect the dots looking forward; you can only connect them looking backwards”, so I have looked for the dots in twitter :)&lt;/p&gt;
 
-&lt;p&gt;A few months ago I joined the meetup group &lt;a href=&quot;http://www.meetup.com/es-ES/Front-end-Developers-Madrid/&quot;&gt;Front-end Developers Madrid&lt;/a&gt; and I am really glad that I did it because I became aware that I need to learn a lot. I used to send interesting articles and courses to the mailbox of my “future self”, but after a while I imagined all the tasks in a wall like in the movie “A beautiful mind” and I shared it in twitter:&lt;/p&gt;
+&lt;p&gt;A few months ago I joined the meetup group &lt;a href=&quot;http://www.meetup.com/es-ES/Front-end-Developers-Madrid/&quot;&gt;Front-end Developers Madrid&lt;/a&gt; and I am really glad that I did it because I became aware that I need to learn a lot. After some conversations from the group in Slack I used to send interesting articles and courses to the mailbox of my “future self”, but after a while I imagined all the tasks in a wall like in the movie “A beautiful mind” and I shared it in twitter:&lt;/p&gt;
 
 &lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Mi lista de tareas para mejorar en &lt;a href=&quot;https://twitter.com/hashtag/frontend?src=hash&quot;&gt;#frontend&lt;/a&gt; se está pareciendo ya a la pared de ‘Una mente maravillosa&amp;#39; :) &lt;a href=&quot;https://twitter.com/hashtag/css?src=hash&quot;&gt;#css&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ux?src=hash&quot;&gt;#ux&lt;/a&gt; &lt;a href=&quot;https://t.co/vssfXJiNXT&quot;&gt;pic.twitter.com/vssfXJiNXT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/730417793389178880&quot;&gt;May 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
@@ -24,12 +24,13 @@
 &lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Using &lt;a href=&quot;https://twitter.com/taigaio&quot;&gt;@taigaio&lt;/a&gt; to create a kanban project &amp;quot;Improving in &lt;a href=&quot;https://twitter.com/hashtag/frontend?src=hash&quot;&gt;#frontend&lt;/a&gt; development&amp;quot;, with a custom column AddToBlog between InProgress and Done.&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/741586091162140672&quot;&gt;June 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
 
-&lt;!--Before: &lt;&lt;div class=&#39;embed twitter&#39;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Using &lt;a href=&quot;https://twitter.com/taigaio&quot;&gt;@taigaio&lt;/a&gt; to create a kanban project &amp;quot;Improving in &lt;a href=&quot;https://twitter.com/hashtag/frontend?src=hash&quot;&gt;#frontend&lt;/a&gt; development&amp;quot;, with a custom column AddToBlog between InProgress and Done.&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/741586091162140672&quot;&gt;June 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;--&gt;
+&lt;p&gt;What you can learn here is that a bad event can turn into something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)&lt;/p&gt;
 
-&lt;p&gt;What you can learn here is that a bad event can turn in something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Note: How to insert tweets in Jekyll posts?&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Notes: How to insert tweets in Jekyll posts?&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -39,10 +40,16 @@
     &lt;p&gt;Created a &lt;a href=&quot;https://apps.twitter.com/app/new&quot;&gt; Twitter application&lt;/a&gt; to create the keys and access tokens.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;With OS X 10.11 you have to change the &lt;a href=&quot;https://github.com/CocoaPods/CocoaPods/issues/3680&quot;&gt;path to /usr/local/bin&lt;/a&gt; to install the gem.&lt;/p&gt;
+    &lt;p&gt;Using Gemfile and &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the gems and dependencies.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Issues: &lt;a href=&quot;https://github.com/rob-murray/jekyll-twitter-plugin/issues/15&quot;&gt;The tag twitter is not a recognized Liquid tag&lt;/a&gt;. You have to build the HTML locally and then merge the generated code into the gh-pages branch: bundle exec jekyll build to generate it and copy code from _site to _post.&lt;/p&gt;
+    &lt;p&gt;With OS X 10.11 you have to change the &lt;a href=&quot;https://github.com/CocoaPods/CocoaPods/issues/3680&quot;&gt;path to /usr/local/bin&lt;/a&gt; to install some gems: &lt;code class=&quot;highlighter-rouge&quot;&gt;gem install -n /usr/local/bin/ jekyll-sitemap&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I created a local file .env to have the keys (it remains only in local, not in GitHub) and I export each line (export TWITTER_ACCESS_TOKEN_SECRET=…) to have it in the environment and test it in local with &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve --baseurl &#39;&#39;&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Issues: &lt;a href=&quot;https://github.com/rob-murray/jekyll-twitter-plugin/issues/15&quot;&gt;The tag twitter is not a recognized Liquid tag&lt;/a&gt;. You have to build the HTML locally and then merge the generated code into the gh-pages branch: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt; to generate the html and copy the code from _site to _post.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</content><summary>After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?</summary></entry><entry><title>Learning Sass</title><link href="http://cristinafsanz.github.io/projects//learning-sass/" rel="alternate" type="text/html" title="Learning Sass" /><published>2016-06-26T00:00:00+02:00</published><updated>2016-06-26T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//learning-sass</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//learning-sass/">&lt;p&gt;I am starting the learning process with Sass and I have decided to apply the concepts after learning PostCSS, automating the compilation to css with Gulp.&lt;/p&gt;
 
