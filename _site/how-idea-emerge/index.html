@@ -27,10 +27,10 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="shortcut icon" type="image/x-icon" href="/projects/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
-    <link rel="stylesheet" type="text/css" href="/projects/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Cristina Fernández Sanz - Frontend Developer" href="/projects/feed.xml" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Cristina Fernández Sanz - Frontend Developer" href="/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -39,17 +39,17 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="/projects/" class="site-avatar"><img src="https://avatars.githubusercontent.com/u/7030244?v=3" /></a>
+          <a href="/" class="site-avatar"><img src="https://avatars.githubusercontent.com/u/7030244?v=3" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="/projects/">Cristina Fernández Sanz</a></h1>
+            <h1 class="site-name"><a href="/">Cristina Fernández Sanz</a></h1>
             <p class="site-description">Frontend Developer</p>
           </div>
 
           <nav>
-	    <a href="/projects/">Projects</a>
-	    <a href="/projects/about">About</a>
-            <a href="/projects/blog">Blog</a>
+	    <a href="/">Projects</a>
+	    <a href="/about">About</a>
+            <a href="/blog">Blog</a>
           </nav>
 	
         </header>
@@ -57,7 +57,7 @@
     </div>
 
     <div>
-	<img src="/projects/images/webdesign-layout.jpg" />
+	<img src="/images/webdesign-layout.jpg" />
     </div>
     <div id="main" role="main" class="container">
       <article class="post">
@@ -90,6 +90,9 @@
 <div class="embed twitter"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Using <a href="https://twitter.com/taigaio">@taigaio</a> to create a kanban project &quot;Improving in <a href="https://twitter.com/hashtag/frontend?src=hash">#frontend</a> development&quot;, with a custom column AddToBlog between InProgress and Done.</p>&mdash; Cristina Fernández (@cristinafsanz) <a href="https://twitter.com/cristinafsanz/status/741586091162140672">June 11, 2016</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
+<!--Before: <<div class='embed twitter'><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Using <a href="https://twitter.com/taigaio">@taigaio</a> to create a kanban project &quot;Improving in <a href="https://twitter.com/hashtag/frontend?src=hash">#frontend</a> development&quot;, with a custom column AddToBlog between InProgress and Done.</p>&mdash; Cristina Fernández (@cristinafsanz) <a href="https://twitter.com/cristinafsanz/status/741586091162140672">June 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>-->
+
 <p>What you can learn here is that a bad event can turn in something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)</p>
 
 <p>Note: How to insert tweets in Jekyll posts?</p>
@@ -105,7 +108,7 @@
     <p>With OS X 10.11 you have to change the <a href="https://github.com/CocoaPods/CocoaPods/issues/3680">path to /usr/local/bin</a> to install the gem.</p>
   </li>
   <li>
-    <p>Issues: <a href="https://github.com/rob-murray/jekyll-twitter-plugin/issues/15">The tag twitter is not a recognized Liquid tag.</a>. You have to build the HTML locally and then merge the generated code into the gh-pages branch: bundle exec jekyll serve –baseurl ‘’.</p>
+    <p>Issues: <a href="https://github.com/rob-murray/jekyll-twitter-plugin/issues/15">The tag twitter is not a recognized Liquid tag</a>. You have to build the HTML locally and then merge the generated code into the gh-pages branch: bundle exec jekyll build to generate it and copy code from _site to _post.</p>
   </li>
 </ul>
 
