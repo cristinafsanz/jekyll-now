@@ -30,8 +30,6 @@ So I decided to write about each task in my blog and share the idea:
 <div class="embed twitter"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Using <a href="https://twitter.com/taigaio">@taigaio</a> to create a kanban project &quot;Improving in <a href="https://twitter.com/hashtag/frontend?src=hash">#frontend</a> development&quot;, with a custom column AddToBlog between InProgress and Done.</p>&mdash; Cristina Fernández (@cristinafsanz) <a href="https://twitter.com/cristinafsanz/status/741586091162140672">June 11, 2016</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-<!--Before: <{% twitter oembed https://twitter.com/cristinafsanz/status/741586091162140672 align='center' width='220' %}-->
-
 What you can learn here is that a bad event can turn in something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)
 
 
