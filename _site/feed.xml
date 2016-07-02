@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://cristinafsanz.github.io/projects//projects/feed.xml" rel="self" type="application/atom+xml" /><link href="http://cristinafsanz.github.io/projects//projects/" rel="alternate" type="text/html" /><updated>2016-07-02T19:35:56+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/</id><title>Cristina Fernández Sanz</title><subtitle>Frontend Developer</subtitle><entry><title>How a new idea emerges</title><link href="http://cristinafsanz.github.io/projects//projects/how-idea-emerge/" rel="alternate" type="text/html" title="How a new idea emerges" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/how-idea-emerge</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/how-idea-emerge/">&lt;p&gt;After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?&lt;/p&gt;
+
+&lt;p&gt;As Steve Jobs said, “You can’t connect the dots looking forward; you can only connect them looking backwards”, so I have looked for the dots in twitter :)&lt;/p&gt;
+
+&lt;p&gt;A few months ago I joined the meetup group &lt;a href=&quot;http://www.meetup.com/es-ES/Front-end-Developers-Madrid/&quot;&gt;Front-end Developers Madrid&lt;/a&gt; and I am really glad that I did it because I became aware that I need to learn a lot. I used to send interesting articles and courses to the mailbox of my “future self”, but after a while I imagined all the tasks in a wall like in the movie “A beautiful mind” and I shared it in twitter:&lt;/p&gt;
+
+&lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Mi lista de tareas para mejorar en &lt;a href=&quot;https://twitter.com/hashtag/frontend?src=hash&quot;&gt;#frontend&lt;/a&gt; se está pareciendo ya a la pared de ‘Una mente maravillosa&amp;#39; :) &lt;a href=&quot;https://twitter.com/hashtag/css?src=hash&quot;&gt;#css&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ux?src=hash&quot;&gt;#ux&lt;/a&gt; &lt;a href=&quot;https://t.co/vssfXJiNXT&quot;&gt;pic.twitter.com/vssfXJiNXT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/730417793389178880&quot;&gt;May 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;I didn’t really have a plan to improve in front-end development until a very bad weeks at work when I saw myself unemployed. I had the idea back then (in the shower, where all the ideas come from) to do a talk about moving from back-end to front-end development and take advantage of it to put pressure on me and improve in these months.&lt;/p&gt;
+
+&lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Presentada charla para &lt;a href=&quot;https://twitter.com/hashtag/codemotion_es?src=hash&quot;&gt;#codemotion_es&lt;/a&gt;, a ver si este año somos más mujeres &lt;a href=&quot;https://t.co/WSPNHIsUey&quot;&gt;https://t.co/WSPNHIsUey&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ILookLikeAnEngineer?src=hash&quot;&gt;#ILookLikeAnEngineer&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/womenInTech?src=hash&quot;&gt;#womenInTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/740626334368563200&quot;&gt;June 8, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;I wanted to organize the talk and have all the ideas in the same place and I thought about a Kanban to use different “boxes” for each idea. But after adding some ideas, I started to add also user stories for each thing that I wanted to learn and I realized that it could be very useful to see how a learning goes.&lt;/p&gt;
+
+&lt;p&gt;Those days I saw this tweet:&lt;/p&gt;
+
+&lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;#1 answer to &amp;quot;how do I become a better developer?&amp;quot; start a blog. You&amp;#39;ll learn so much + have a reference to all you know, in your own words.&lt;/p&gt;&amp;mdash; Todd Motto (@toddmotto) &lt;a href=&quot;https://twitter.com/toddmotto/status/737766510387662848&quot;&gt;May 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;So I decided to write about each task in my blog and share the idea:&lt;/p&gt;
+
+&lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Using &lt;a href=&quot;https://twitter.com/taigaio&quot;&gt;@taigaio&lt;/a&gt; to create a kanban project &amp;quot;Improving in &lt;a href=&quot;https://twitter.com/hashtag/frontend?src=hash&quot;&gt;#frontend&lt;/a&gt; development&amp;quot;, with a custom column AddToBlog between InProgress and Done.&lt;/p&gt;&amp;mdash; Cristina Fernández (@cristinafsanz) &lt;a href=&quot;https://twitter.com/cristinafsanz/status/741586091162140672&quot;&gt;June 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;What you can learn here is that a bad event can turn in something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)&lt;/p&gt;
+
+&lt;p&gt;Note: How to insert tweets in Jekyll posts?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Used &lt;a href=&quot;http://phatblat.com/2016/01/05/jekyll-twitter-plugin.html&quot;&gt;Jekyll Twitter Plugin article&lt;/a&gt; with &lt;a href=&quot;https://github.com/rob-murray/jekyll-twitter-plugin&quot;&gt;Rob Murray jekyll twitter plugin&lt;/a&gt; to insert tweets in Jekyll.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Created a &lt;a href=&quot;https://apps.twitter.com/app/new&quot;&gt; Twitter application&lt;/a&gt; to create the keys and access tokens.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With OS X 10.11 you have to change the &lt;a href=&quot;https://github.com/CocoaPods/CocoaPods/issues/3680&quot;&gt;path to /usr/local/bin&lt;/a&gt; to install the gem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Issues: &lt;a href=&quot;https://github.com/rob-murray/jekyll-twitter-plugin/issues/15&quot;&gt;The tag twitter is not a recognized Liquid tag.&lt;/a&gt;. You have to build the HTML locally and then merge the generated code into the gh-pages branch: bundle exec jekyll serve –baseurl ‘’.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><summary>After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?</summary></entry><entry><title>Learning Sass</title><link href="http://cristinafsanz.github.io/projects//projects/learning-sass/" rel="alternate" type="text/html" title="Learning Sass" /><published>2016-06-26T00:00:00+02:00</published><updated>2016-06-26T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/learning-sass</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/learning-sass/">&lt;p&gt;I am starting the learning process with Sass and I have decided to apply the concepts after learning PostCSS, automating the compilation to css with Gulp.&lt;/p&gt;
+
+&lt;p&gt;I have learnt the basis with &lt;a href=&quot;https://www.codecademy.com/learn/learn-sass&quot;&gt;Learn Sass - Codecademy&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unit 1. Create a Sass stylesheet: It explains the compilation process, nesting selectors and variables.&lt;/li&gt;
+  &lt;li&gt;Unit 2. Mixins and the &amp;amp; selector: The &amp;amp; selector in nesting, mixins and mixins with arguments and string interpolation for mixins.&lt;/li&gt;
+  &lt;li&gt;Unit 3. Functions and operators: Arithmetic and color functions, each-loop, for-loop and conditional.&lt;/li&gt;
+  &lt;li&gt;Unit 4. Sustainable SCSS: Structure, @import, organize with partials, @extend, placeholders and @extend vs @mixin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think this course is a good method to learn about Sass, but you need to apply it in real projects to retain the concepts.&lt;/p&gt;
+
+&lt;p&gt;I have also read an article for best practices: &lt;a href=&quot;https://www.sitepoint.com/8-tips-help-get-best-sass/&quot;&gt;8 Tips to Help You Get the Best out of Sass&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Structure your Sass: Use a correct structure, use partials.&lt;/li&gt;
+  &lt;li&gt;Use Sass variables more effectively: Variables for colors and then variables to use the colors in the scss file (link-primary or primary-color).&lt;/li&gt;
+  &lt;li&gt;Reduce mixin usage: Including a mixin is the same as copying and pasting the styles throughout the CSS file. Use it only if an argument is present.&lt;/li&gt;
+  &lt;li&gt;Embrace placeholders: Placeholders can be used multiple times without adding any duplicate code.&lt;/li&gt;
+  &lt;li&gt;Use functions for calculations&lt;/li&gt;
+  &lt;li&gt;Order your work&lt;/li&gt;
+  &lt;li&gt;Limit Nesting: Never go more then 3 levels deep, ensure the CSS output is clean and reusable and use nesting when it makes sense to, not as a default option.&lt;/li&gt;
+  &lt;li&gt;Keep things simple: The purpose of Sass is to write cleaner more manageable CSS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do you have any recommendations to learn more about Sass?&lt;/p&gt;</content><summary>I am starting the learning process with Sass and I have decided to apply the concepts after learning PostCSS, automating the compilation to css with Gulp.</summary></entry><entry><title>Challenges while learning</title><link href="http://cristinafsanz.github.io/projects//projects/challenges-while-learning/" rel="alternate" type="text/html" title="Challenges while learning" /><published>2016-06-24T00:00:00+02:00</published><updated>2016-06-24T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/challenges-while-learning</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/challenges-while-learning/">&lt;p&gt;After learning the basics of responsive web design back in 2014, I did some web designs to practice what I learnt. I realized that I wanted to learn also graphic design to do my own designs from scratch, so I did some online courses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Creative course&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Graphic design basics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learning GIMP &amp;amp; Inkscape&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This year I discovered UX and I wanted to learn it too, but I decided that I should first improve in what I do for a living, that is, front-end development.&lt;/p&gt;
+
+&lt;p&gt;A couple of weeks ago I organized the learning project and last week I started my first course. But meanwhile I discovered another interest that I want to learn: illustration. In my imagination I put together all the future knowledge of web design, illustration, graphic design and UX, but I know that if you don’t start small and learn little by little, it is very difficult to learn something at the end.&lt;/p&gt;
+
+&lt;p&gt;Is my behaviour something related to multipotentialite? Do I want to learn very different things and I can’t focus in only one? Or is it maybe procrastination because I am afraid I won’t improve my skills after the learning project?&lt;/p&gt;
+
+&lt;p&gt;By the way, this is the first kind of “comic-illustration” to explain what had happened these two weeks. I think Illustrators don’t have to be afraid of a new rival… And don’t worry Sass, tomorrow we see each other again :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/blog/learning_comic_colored.jpg&quot; alt=&quot;Learning challenges comic&quot; /&gt;&lt;/p&gt;</content><summary>After learning the basics of responsive web design back in 2014, I did some web designs to practice what I learnt. I realized that I wanted to learn also graphic design to do my own designs from scratch, so I did some online courses:
+
+
+  Creative course</summary></entry><entry><title>Learning Preprocessors, Postprocessors and automatic Workflow</title><link href="http://cristinafsanz.github.io/projects//projects/first-learning-block/" rel="alternate" type="text/html" title="Learning Preprocessors, Postprocessors and automatic Workflow" /><published>2016-06-19T00:00:00+02:00</published><updated>2016-06-19T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/first-learning-block</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/first-learning-block/">&lt;p&gt;After organizing the &lt;a href=&quot;https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban&quot;&gt;learning Front-end development project&lt;/a&gt;, I am going to start learning about Preprocessors (Sass for CSS and Jade or HAML for HTML), Postprocessors (PostCSS) and automatic workflow (with Gulp or Grunt):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/blog/first_learning_block.jpg&quot; alt=&quot;First learning block&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After learning this block I will apply the new concepts creating a web design, uploading the code in GitHub and sharing the results in the blog.&lt;/p&gt;
+
+&lt;p&gt;Do you know free online resources for all of this? Right now I am focus on the &lt;a href=&quot;https://www.codecademy.com/en/courses/learn-sass&quot;&gt;Learn Sass course&lt;/a&gt; from Codecademy, but I will add all the resources in the Taiga Kanban and in the blog while I am learning.&lt;/p&gt;
+
+&lt;p&gt;Wish me luck :)&lt;/p&gt;</content><summary>After organizing the learning Front-end development project, I am going to start learning about Preprocessors (Sass for CSS and Jade or HAML for HTML), Postprocessors (PostCSS) and automatic workflow (with Gulp or Grunt):</summary></entry><entry><title>How to make time for a side project</title><link href="http://cristinafsanz.github.io/projects//projects/make-time-side-project/" rel="alternate" type="text/html" title="How to make time for a side project" /><published>2016-06-18T00:00:00+02:00</published><updated>2016-06-18T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/make-time-side-project</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/make-time-side-project/">&lt;p&gt;After organizing a little and analyze what I want to learn to improve in Front-end development, it comes a question to my mind: How to get time for this? This learning process is like a side project, so I have researched in Internet to get some ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/rosssimmonds/how-to-make-time-for-a-side-hustle&quot;&gt;How to make time for a side hustle&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Avoid distractions: find time to work in the project when there are no distractions.&lt;/li&gt;
+      &lt;li&gt;Create consistency in your weekly calender: create a “Learning evening”.&lt;/li&gt;
+      &lt;li&gt;Be a passenger: use commute to learn something.&lt;/li&gt;
+      &lt;li&gt;Learn to say no to things that you don’t really want to: priorization is the key to success.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.any.do/2015/03/side-project-planning/&quot;&gt;How To Fit In Time For That Side Project&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The time you set aside to work on your side project has to come from somewhere: less TV, less time for hobbies, …&lt;/li&gt;
+      &lt;li&gt;Get up an hour earlier&lt;/li&gt;
+      &lt;li&gt;Put it in your calendar: or in my case in the kanban board&lt;/li&gt;
+      &lt;li&gt;Make it regular: I can choose 2 days in the week to do the side project, the same as I go to pilates twice a week.&lt;/li&gt;
+      &lt;li&gt;Make a commitment: I spoke about the talk I submitted to a group of people, so I have a deadline for the project.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><summary>After organizing a little and analyze what I want to learn to improve in Front-end development, it comes a question to my mind: How to get time for this? This learning process is like a side project, so I have researched in Internet to get some ideas.</summary></entry><entry><title>Learn HTML &amp;amp; CSS</title><link href="http://cristinafsanz.github.io/projects//projects/learn-html-css/" rel="alternate" type="text/html" title="Learn HTML &amp; CSS" /><published>2016-06-18T00:00:00+02:00</published><updated>2016-06-18T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/learn-html-css</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/learn-html-css/">&lt;p&gt;I learnt the basis of HTML5 &amp;amp; CSS2-CSS3 in a course in 2013/2014, but you can do it from scratch with a lot of online resources. I found a very good article &lt;a href=&quot;https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.gehfwy62c&quot;&gt;From zero to Front-end hero&lt;/a&gt; where it explains how to start and keep learning HTML &amp;amp; CSS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting started:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction&quot;&gt;Introduction to HTML&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/What_is_CSS&quot;&gt;Introduction to CSS&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Beginning courses:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.udacity.com/course/intro-to-html-and-css--ud304&quot;&gt;Introduction to HTML and CSS&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/javascript-html-css-web-development-microsoft-dev211-1x&quot;&gt;JavaScript, HTML and CSS Web Development&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.codeschool.com/courses/the-elements-of-web-design&quot;&gt;The Elements of Web Design&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.ofnblog.com/diseno/tutorial-aprende-html-css-esencial-espanol-video-dopodcast&quot;&gt;Learn HTML/CSS (spanish)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.hongkiat.com/blog/html-5-semantics/&quot;&gt;HTML5 semantics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.tripwiremagazine.com/2012/06/css3-tutorials.html&quot;&gt;CSS3 tutorials&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Advanced course:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/advanced-html-css/performance-organization/&quot;&gt;Learn advanced HTML &amp;amp; CSS&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><summary>I learnt the basis of HTML5 &amp;amp; CSS2-CSS3 in a course in 2013/2014, but you can do it from scratch with a lot of online resources. I found a very good article From zero to Front-end hero where it explains how to start and keep learning HTML &amp;amp; CSS:</summary></entry><entry><title>Organizing a learning process</title><link href="http://cristinafsanz.github.io/projects//projects/organizing-a-learning-process/" rel="alternate" type="text/html" title="Organizing a learning process" /><published>2016-06-17T00:00:00+02:00</published><updated>2016-06-17T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//projects/organizing-a-learning-process</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/organizing-a-learning-process/">&lt;p&gt;When I saw that the &lt;a href=&quot;https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5753906952929280/#/&quot;&gt;Call for papers for Codemotion Madrid 2016&lt;/a&gt; process was open, I thought that I could explain my journey to becoming a Front-end developer because it can be useful for others.&lt;/p&gt;
+
+&lt;p&gt;As a said in another posts, I am Front-end developer since March last year, but I know that I have to improve a lot. Because of that, I thought that implementing a learning process can help me and others in the same situation improving in this field. The Codemotion conference is in November, so I have 5 months ahead to organize myself, keep improving and show the results there (and here in my blog). If my talk is not chosen, I can still explain this in other meetups or conferences that can be interested in this organization plan and I will also improve my skills in between, so I can’t lose.&lt;/p&gt;
+
+&lt;h2 id=&quot;organizing-tools&quot;&gt;Organizing tools&lt;/h2&gt;
+
+&lt;p&gt;I use 2 types of calendar that I add to a physical board. The first is the usual one, where I write down the meetups/meetings/free time stuff/trips, etc. With this first calendar I can see when I have time to learn. In the second one I write down the things that I would like to accomplished by month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/blog/calendars.png&quot; alt=&quot;Calendars to organize&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The bad thing about the second board is that I don’t usually know how many tasks I will accomplish in a month and I would like to reorganize order of tasks in a visual way.&lt;/p&gt;
+
+&lt;p&gt;For that, I am going to start using Kanban with the open source tool &amp;lt;a href=”https://taiga.io/”Taiga&amp;lt;/a&amp;gt;. In the &lt;a href=&quot;https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban&quot;&gt;learning Front-end development project&lt;/a&gt; I will add each task that I would like to accomplish in a user story. In the first version I am adding all the tasks, ideas and resources in the TO-DO column, I don’t know if I will separate them in some way to distinguish which kind of task is.&lt;/p&gt;
+
+&lt;p&gt;The organization in the Kanban board is the usual for this method, that is, columns TO-DO, DOING and DONE. However, I have added a ADD-TO-BLOG column to write a little explanation, example or conclusion in the blog after finishing doing each task. This way, other people can take advantage of the time inverted there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/blog/taiga_kanban.jpg&quot; alt=&quot;Taiga kanban&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organizing-tasks&quot;&gt;Organizing tasks&lt;/h2&gt;
+
+&lt;p&gt;I use Evernote to write about each task that I do, make list of things that I need to do to accomplish it or steps that I will use in the future again (for example, steps to upload a new blog post to GitHub). After finishing each task, I can get the important parts from there and adding them to the blog.&lt;/p&gt;
+
+&lt;h2 id=&quot;improving-front-end-development-tasks&quot;&gt;Improving front-end development tasks&lt;/h2&gt;
+
+&lt;p&gt;These are the tasks for this project:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tasks: HTML, CSS &amp;amp; JS, Sass, PostCSS, Flexbox, responsive web design, best practices, workflow front-end development, accesibility, Material Design, UX&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Resources: Free books to learn web design, articles&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ideas: Apply learning with personal projects, go to meetups/conferences, follow people that are where you want to be in front-end development&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><summary>When I saw that the Call for papers for Codemotion Madrid 2016 process was open, I thought that I could explain my journey to becoming a Front-end developer because it can be useful for others.</summary></entry><entry><title>Prioritize goals to improve in web design</title><link href="http://cristinafsanz.github.io/projects//projects/prioritize-goals/" rel="alternate" type="text/html" title="Prioritize goals to improve in web design" /><published>2016-03-25T00:00:00+01:00</published><updated>2016-03-25T00:00:00+01:00</updated><id>http://cristinafsanz.github.io/projects//projects/prioritize-goals</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/prioritize-goals/">&lt;p&gt;2 weeks ago I wrote a post about my first year as a Frontend Developer. At the end of the post I wrote my goals from now on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would like to have models to follow and improve myself in what I do.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to learn new and better ways of doing web design.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to do some creative designs from scratch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to learn UX and understand more the designs that I code.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is good to have some goals to improve, but the hard part is to accomplish them. Currently we have a lot of information to improve in web design on the Internet: tutorials, courses, articles, resources, open projects, etc. But we should focus in only one thing at a time if we want to do something and not get overwhelmed.&lt;/p&gt;
+
+&lt;p&gt;If you have a full-time job, the free time you have is restricted. You want to socialize, be with your family, relax, do exercise, travel and many other things, but you also want to improve in your job, how can you do that? One possibility is trying to use new tools or technology in your work, but you have to have the time to learn it and incorporate it. The other possibility is to do it as a side project and then, use it in your work.&lt;/p&gt;
+
+&lt;p&gt;A week ago I started to read the &lt;a href=&quot;http://zellwk.com&quot;&gt;Zell Liew’s blog&lt;/a&gt; and I realized that the questions I have are the questions a lot of people have. He says that a clue to do the next thing is asking yourself: Where do you want to go? What do you need? That’s what you should learn next.&lt;/p&gt;
+
+&lt;p&gt;Another important considerations that you have to take into account when you are doing a plan is something that I read in “Live your legend” blog:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Everything takes longer than we think&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You have to leave windows of free time&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Know you won’t get it all done&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Schedule the most important things early&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my case I have to finish a graphic design course and do the final project first (I have a deadline here) and then, start with these goals. I am going to write down what I want to achieve with an initial order and in future posts I will tell you if it was possible, if all was needed and how I did it.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Automating your workflow: If you automate your workflow, you will have more time to do the important part: web development. I discovered this Zell View’s book and I realized this is what I need first. I already use Yeoman, but there are many things that I don’t do properly and I think that if I do it from scratch I will understand better the process and I will use the tools better. He speaks about the package managers, browser sync, sass, Susy, Webpack, SCSSLint, JSLint, Jasmine, useref, imagemin, Codekit, Grunt and Gulp.&lt;/p&gt;
+
+    &lt;p&gt;With these tools you can have all of this: updating a file whenever it is changed, refreshing the browser automatically, letting you know what errors you made, letting you write modular code, even in HTML, testing code whenever a developer merges the code to a central repository, optimizing your CSS, Javascript and images or deploying your website with a simple command.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Apply the workflow in a web design: I will code the web design that I created in my graphic design course, use all the tools that I learnt and put it a Github page. I will research how to add also a blog to this page so that a non-tech person can add content (Prose.io or similar).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn more about CSS (ex. Flexbox): do some tutorials (CodeHouse, Callmenick, CSS-Tricks, CSSDeck, Codrops), replicate awesome web designs, use Codepen to code them, add them to my Projects page and write posts about what I learnt.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn AngularJS in a proper way. Learn it from 1.5 to start using Components and be prepared for Angular 2.0.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add a CV to my Project page: I think it is important to have your CV with your experience in the same page than your portfolio. I saw the one that Lea Verou has and it is simple but beautiful.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Improve some existing designs: improve Projects page and the New York blog that I am creating. Use own images, new content and some nice design. Add New York blog to Projects. I could use the Creative Tim Material design example or the Bootstrap template for developers from @3rdwave_themes and learn from what they did. I could learn also more about Material Design.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do a course about User Experience Design to learn more about UX.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And what about you? What are your goals and how you prioritize them?&lt;/p&gt;</content><summary>2 weeks ago I wrote a post about my first year as a Frontend Developer. At the end of the post I wrote my goals from now on:</summary></entry><entry><title>Divergent, a Frontend developer in a UX event</title><link href="http://cristinafsanz.github.io/projects//projects/divergent/" rel="alternate" type="text/html" title="Divergent, a Frontend developer in a UX event" /><published>2016-03-19T00:00:00+01:00</published><updated>2016-03-19T00:00:00+01:00</updated><id>http://cristinafsanz.github.io/projects//projects/divergent</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/divergent/">&lt;p&gt;Last Friday I watched “Divergent” on TV and only 5 days later I was living the same experience!&lt;/p&gt;
+
+&lt;p&gt;(Spoiler: The rest of the post can contain parts of the plot, maybe the title is also a spoiler, sorry about that)&lt;/p&gt;
+
+&lt;p&gt;Not long ago I signed up for a UX meetup and this week there was a talk about animations. I have done several animations with JQuery in my career and it is very fun to do them, so I was very interested in a UX perspective.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the talk, I learnt that an animation should have a purpose, it can help the user to understand better the content, it should be fluent and the message should be the same without animation (accessibility).&lt;/p&gt;
+
+&lt;p&gt;I also learnt about some tools to create animations: Codepen (CSS3), After effects, Framer.js or Origami. They are a good way for the designer to show what he/she has in his/her mind in case the designer also codes.&lt;/p&gt;
+
+&lt;p&gt;And in this point of the talk arose the big question: if a designer doesn’t use CSS or JQuery, how can the animation be transferred to the frontend developer? Maybe he/she doesn’t have aesthetic taste (this is what I heard there, it is not my opinion, but I went in disguise and they didn’t know I wasn’t one of them). The speaker said the best answer: communication.&lt;/p&gt;
+
+&lt;p&gt;I have worked with 2 designers that didn’t code the animations and I haven’t had any problem in coding what they want to achieve. Sometimes it is a very nice idea but unrealistic (the very speaker said that he is called “the one with the fantasies” by the developers), but you can come to an agreement and do something cool.&lt;/p&gt;
+
+&lt;p&gt;If you work in web development, you have to communicate with designers, backend developers, the salesperson or the team leader. Each role has a different idea of the final product, but though communication, the use of different tools and examples from the web, the same idea can be shared by the whole team.&lt;/p&gt;
+
+&lt;p&gt;And maybe we can learn from each other: the designer can explain to us how they transform a client idea in a design and we can help them to code to let them create their own animations.&lt;/p&gt;</content><summary>Last Friday I watched “Divergent” on TV and only 5 days later I was living the same experience!</summary></entry><entry><title>Fear of change or how I became Frontend Developer</title><link href="http://cristinafsanz.github.io/projects//projects/fear-of-change/" rel="alternate" type="text/html" title="Fear of change or how I became Frontend Developer" /><published>2016-03-13T00:00:00+01:00</published><updated>2016-03-13T00:00:00+01:00</updated><id>http://cristinafsanz.github.io/projects//projects/fear-of-change</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//projects/fear-of-change/">&lt;p&gt;In 10 days I do my first year as a Frontend Developer and although I like the change very much, it was not easy to take the first step.&lt;/p&gt;
+
+&lt;p&gt;When I made the decision to be a Frontend Developer I didn’t know how to start. Should I ask for some web design tasks in my company being a backend developer? Should I do personal sites to keep improving and then jump to the other side of the web? Should I apply for jobs and improve by doing?&lt;/p&gt;
+
+&lt;p&gt;It took 9 months since I finished my web design course until I get a job as a Frontend Developer and in those months I didn’t do a lot of improvement. However, since I am a Frontend developer I have done another website using Bootstrap, I started some Jekyll blogs and did my portfolio, I learnt AngularJS, used Yeoman and Grunt, I have done the responsive web designs of a virtual assistant with JQuery animations and a search page with a lot of functionality, I have done e2e tests with Protractor and I have learnt Inkscape and a little about graphic design theory.&lt;/p&gt;
+
+&lt;p&gt;So, if I could read again the pros/cons list that I told myself in June 2014, I would say that the majority of the pros were fears that haven’t happened: what if I make a mistake with the decision, I am not good at frontend developer, I don’t fit in the new company? The reality is that you can change again if you are not happy with the decision, but you can win a lot if you don’t follow your fears.&lt;/p&gt;
+
+&lt;p&gt;And what now? What do I want to do after being where I wanted to be in that June 2014? After a year in a new role? I would like to have models to follow and improve myself in what I do. I want to learn new and better ways of doing web design. I want to do some creative designs from scratch. I want to learn UX and understand more the designs that I code. And for all of that I need to take the first step again.&lt;/p&gt;</content><summary>In 10 days I do my first year as a Frontend Developer and although I like the change very much, it was not easy to take the first step.</summary></entry></feed>

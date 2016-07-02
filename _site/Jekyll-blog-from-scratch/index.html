@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jekyll blog from scratch – Cristina Fernández Sanz – Frontend Developer</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Now that I have tried different jekyll themes, it is time to start one from scratch. I will use a very useful tutorial: Creating and Hosting a Personal Site on GitHub , that explains very well all the steps to do. The only thing that is different in my case is that I use Project Pages instead of User Pages, so I will specify here the differences.
+
+" />
+    <meta property="og:description" content="Now that I have tried different jekyll themes, it is time to start one from scratch. I will use a very useful tutorial: Creating and Hosting a Personal Site on GitHub , that explains very well all the steps to do. The only thing that is different in my case is that I use Project Pages instead of User Pages, so I will specify here the differences.
+
+" />
+    
+    <meta name="author" content="Cristina Fernández Sanz" />
+
+    
+    <meta property="og:title" content="Jekyll blog from scratch" />
+    <meta property="twitter:title" content="Jekyll blog from scratch" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="/projects/favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" href="/projects/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Cristina Fernández Sanz - Frontend Developer" href="/projects/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/projects/" class="site-avatar"><img src="https://avatars.githubusercontent.com/u/7030244?v=3" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/projects/">Cristina Fernández Sanz</a></h1>
+            <p class="site-description">Frontend Developer</p>
+          </div>
+
+          <nav>
+	    <a href="/projects/">Projects</a>
+	    <a href="/projects/about">About</a>
+            <a href="/projects/blog">Blog</a>
+          </nav>
+	
+        </header>
+      </div>
+    </div>
+
+    <div>
+	<img src="/projects/images/webdesign-layout.jpg" />
+    </div>
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Jekyll blog from scratch</h1>
+
+  <div class="entry">
+    <p>Now that I have tried different jekyll themes, it is time to start one from scratch. I will use a very useful tutorial: <a href="http://jmcglone.com/guides/github-pages">Creating and Hosting a Personal Site on GitHub</a> , that explains very well all the steps to do. The only thing that is different in my case is that I use Project Pages instead of User Pages, so I will specify here the differences.</p>
+
+<p>As I use project pages to be able to have all my projects in my Github account, I have to create a new repository:</p>
+
+<p>Steps in GitHub:</p>
+
+<ul>
+  <li>
+    <p>Enter a project name: project-name</p>
+  </li>
+  <li>
+    <p>Make the repository public</p>
+  </li>
+  <li>
+    <p>Initialize with a README</p>
+  </li>
+  <li>
+    <p>Click create repository</p>
+  </li>
+</ul>
+
+<p>Steps in the computer:</p>
+
+<ul>
+  <li>
+    <p>In the terminal, create a new directory and make a clone of the repository to do the changes in local.</p>
+
+    <p>git clone https://github.com/username/projectName.git</p>
+  </li>
+  <li>
+    <p>Add the gh-pages branch in the new repository once inside the directory of the project (the branch name gh-pages is a special branch that Github uses to get files to build and publish from).</p>
+
+    <p>git checkout -b gh-pages</p>
+  </li>
+  <li>
+    <p>Add the index.html</p>
+  </li>
+  <li>
+    <p>Create a _config.yml file that tells Jekyll some basics about my project. In this example, I’m telling Jekyll the name of my site and what version of Markdown we’d like to use. Moreover, I add the url for sitemap.xml and baseurl to specify the repository as I use Project pages.</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>  name: My project name
+
+  markdown: kramdown
+
+  url: http://username.github.io/project-name/
+
+  baseurl: "/project-name"
+</code></pre>
+    </div>
+  </li>
+  <li>
+    <p>See the result executing ‘jekyll serve’ and open a browser in http://localhost:4000/project-name</p>
+  </li>
+  <li>
+    <p>After doing changes, do the Commit and push to Github</p>
+
+    <p>git add index.html</p>
+
+    <p>git add _config.yml</p>
+
+    <p>git commit -m “Add first code”</p>
+
+    <p>git push origin gh-pages</p>
+  </li>
+  <li>
+    <p>The Github pages site can be seen in:
+  http://username.github.io/project-name</p>
+  </li>
+</ul>
+
+<p>Usually the first time the GitHub Pages site is created it takes 5-10 minutes to go live.</p>
+
+<h2>Setting up Jekyll:</h2>
+
+<p>In order for Jekyll to work with my site, I need to follow Jekyll’s directory structure.</p>
+
+<ul>
+  <li>
+    <p>Create a .gitignore file to ignore the _site directory that Jekyll automatically generates each time I commit.</p>
+  </li>
+  <li>
+    <p>Make a _layouts directory, and create file inside it called default.html. This is the main layout that will contain repeated elements like <code class="highlighter-rouge">&lt;head&gt;</code> and <code class="highlighter-rouge">&lt;footer&gt;</code>. So let’s move those elements from index.html into default.html.</p>
+  </li>
+  <li>
+    <p>Use the liquid tags {{ page.title }} in the title and {{ content }} inside the container section to inject content into the final web page.</p>
+  </li>
+  <li>
+    <p>In the index.html, add the Front-matter at the top
+  layout: default</p>
+
+    <p>title: Index title</p>
+  </li>
+</ul>
+
+<p>This Front-matter will be processed by Jekyll. Every time I commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML document by replacing {{ content }} in “_layouts/default.html” with the contents of the committed file.</p>
+
+<ul>
+  <li>Add a main.css inside a folder css and link it in the default page to use it in all the pages:</li>
+</ul>
+
+<p><code class="highlighter-rouge">&lt;link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css" /&gt;</code></p>
+
+<p>It is necessary to use {{ site.baseurl }} when I use project pages, if I don’t add it, it will try to find the css in http://username.github.io/css/main.css instead of http://username.github.io/project-name/css/main.css.</p>
+
+<h2>Setting up a Blog</h2>
+
+<ul>
+  <li>
+    <p>Create a new layout for the blog posts called post.html and a folder to store each individual post called _posts/.</p>
+  </li>
+  <li>
+    <p>The post.html can use the default layout and adds a couple new liquid tags to print the title of the post and date.</p>
+  </li>
+  <li>
+    <p>Make a _posts/ directory where we’ll store the blog posts. Inside that folder will be the first post. It must follow the convention YYYY-MM-DD-title-of-my-post.md. This file name gets translated into the permalink for the blog post.</p>
+  </li>
+  <li>
+    <p>In the Front-matter of the post I can add the layout, the title and the date:
+  layout: post</p>
+
+    <p>title: “My first post”</p>
+
+    <p>date: 2016-02-01</p>
+  </li>
+  <li>
+    <p>The .md extension stands for Markdown, and the Markdown syntax used inside the file gets converted to HTML by Jekyll. Markdown is a markup language with a syntax closer to plain text so that the user can write their HTML content quickly. HTML can be also used inside the Markdown files if it is needed a syntax more precise.</p>
+  </li>
+</ul>
+
+<p>After commiting the first post, it can be seen in:
+	http://username.github.io/project-name/YYYY/MM/DD/name-of-the-post</p>
+
+<ul>
+  <li>
+    <p>As the reader won’t always know the exact URLs of the posts, I can create a page on the site that lists each post’s title and hyperlink. It can be created on the homepage or create a blog subpage that collects all of the posts.</p>
+  </li>
+  <li>
+    <p>Create a blog directory and create a file named index.html inside it. To list each post, I’ll use a foreach loop to create an unordered list of the blog posts.</p>
+  </li>
+  <li>
+    <p>It can be seen in:
+  http://username.github.io/project-name/blog/</p>
+  </li>
+</ul>
+
+<h2>Customizing the Blog</h2>
+
+<ul>
+  <li>Include the blog directory in the URL of the post with a permalink in _config.yml.
+  permalink: /blog/:year/:month/:day/:title</li>
+</ul>
+
+<h2>Next steps:</h2>
+
+<ul>
+  <li>
+    <p>Create _includes. They’re a lot like _layouts, only smaller snippets of markup and can be injected into the _layouts and pages.</p>
+  </li>
+  <li>
+    <p>Create a DISQUS _include and call it in the post.html layout.</p>
+  </li>
+  <li>
+    <p>Set up a custom domain instead of github.io.</p>
+  </li>
+  <li>
+    <p>Create a sitemap.xml file for better SEO. You can have one automatically generated by GitHub Pages.</p>
+  </li>
+  <li>
+    <p>Create a development branch to fix a bug or add a new feature and merge once it is done. This way, the master branch is clean.</p>
+  </li>
+  <li>
+    <p>Look for inspiration checking out other jekyll blogs.</p>
+  </li>
+</ul>
+
+
+  </div>
+
+  <div class="date">
+    Written on February  1, 2016
+  </div>
+
+  <div class="social_sharing">
+  	
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="cristinafsanz">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+ 
+  </div>
+
+  
+<div class="comments">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+
+	    var disqus_shortname = 'cristinafsanz';
+
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:cristinafsanz@gmail.com"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/cristinafsanz"><i class="svg-icon github"></i></a>
+
+<a href="https://www.linkedin.com/in/cristinafsanz"><i class="svg-icon linkedin"></i></a>
+
+
+<a href="https://www.twitter.com/cristinafsanz"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>

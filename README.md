@@ -1,5 +1,12 @@
 This blog was forked from https://github.com/barryclark/jekyll-now
 
+## Build in local:
+
+    bundle exec jekyll build
+
+## Test in local:
+    
+    bundle exec jekyll serve --baseurl ''
 
 ## Steps for each change:
 
