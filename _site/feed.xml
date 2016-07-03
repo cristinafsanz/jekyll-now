@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://cristinafsanz.github.io/projects//feed.xml" rel="self" type="application/atom+xml" /><link href="http://cristinafsanz.github.io/projects//" rel="alternate" type="text/html" /><updated>2016-07-02T20:26:20+02:00</updated><id>http://cristinafsanz.github.io/projects//</id><title>Cristina Fernández Sanz</title><subtitle>Frontend Developer</subtitle><entry><title>How a new idea emerges</title><link href="http://cristinafsanz.github.io/projects//how-an-idea-emerges/" rel="alternate" type="text/html" title="How a new idea emerges" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//how-an-idea-emerges</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//how-an-idea-emerges/">&lt;p&gt;After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://cristinafsanz.github.io/projects//feed.xml" rel="self" type="application/atom+xml" /><link href="http://cristinafsanz.github.io/projects//" rel="alternate" type="text/html" /><updated>2016-07-03T12:18:02+02:00</updated><id>http://cristinafsanz.github.io/projects//</id><title>Cristina Fernández Sanz</title><subtitle>Frontend Developer</subtitle><entry><title>How a new idea emerges</title><link href="http://cristinafsanz.github.io/projects//how-an-idea-emerges/" rel="alternate" type="text/html" title="How a new idea emerges" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//how-an-idea-emerges</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//how-an-idea-emerges/">&lt;p&gt;After months of learning things that I don’t really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?&lt;/p&gt;
 
 &lt;p&gt;As Steve Jobs said, “You can’t connect the dots looking forward; you can only connect them looking backwards”, so I have looked for the dots in twitter :)&lt;/p&gt;
 
@@ -97,9 +97,24 @@
 
 &lt;p&gt;Is my behaviour something related to multipotentialite? Do I want to learn very different things and I can’t focus in only one? Or is it maybe procrastination because I am afraid I won’t improve my skills after the learning project?&lt;/p&gt;
 
-&lt;p&gt;By the way, this is the first kind of “comic-illustration” to explain what had happened these two weeks. I think Illustrators don’t have to be afraid of a new rival… And don’t worry Sass, tomorrow we see each other again :)&lt;/p&gt;
+&lt;p&gt;By the way, this is the first kind of “comic-illustration” to explain what had happened these two weeks. I have done a collage until I have more skills for this, but I think Illustrators don’t have to be afraid of a new rival ;) And don’t worry Sass, tomorrow we see each other again :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/blog/learning_comic_colored.jpg&quot; alt=&quot;Learning challenges comic&quot; /&gt;&lt;/p&gt;</content><summary>After learning the basics of responsive web design back in 2014, I did some web designs to practice what I learnt. I realized that I wanted to learn also graphic design to do my own designs from scratch, so I did some online courses:
+&lt;p&gt;&lt;img src=&quot;../images/blog/challenges_learning.jpg&quot; alt=&quot;Learning challenges comic collage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Images from &lt;a href=&quot;https://twitter.com/taigaio&quot;&gt;@taigaio&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/frannerd&quot;&gt;@frannerd&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/WheresMyBubble&quot;&gt;@WheresMyBubble&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/YouTube&quot;&gt;@YouTube&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Google&quot;&gt;@Google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Note: How I did it?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take a picture of each comic box&lt;/li&gt;
+  &lt;li&gt;GIMP: tools - Selection tools - Rectangular selection &amp;amp; Cut to the selection&lt;/li&gt;
+  &lt;li&gt;GIMP: Colors - Auto - Balance of whites&lt;/li&gt;
+  &lt;li&gt;Inkscape: New document with transparent background, create rectangle and duplicate and import comics and screenshots.&lt;/li&gt;
+&lt;/ul&gt;</content><summary>After learning the basics of responsive web design back in 2014, I did some web designs to practice what I learnt. I realized that I wanted to learn also graphic design to do my own designs from scratch, so I did some online courses:
 
 
   Creative course</summary></entry><entry><title>Learning Preprocessors, Postprocessors and automatic Workflow</title><link href="http://cristinafsanz.github.io/projects//first-learning-block/" rel="alternate" type="text/html" title="Learning Preprocessors, Postprocessors and automatic Workflow" /><published>2016-06-19T00:00:00+02:00</published><updated>2016-06-19T00:00:00+02:00</updated><id>http://cristinafsanz.github.io/projects//first-learning-block</id><content type="html" xml:base="http://cristinafsanz.github.io/projects//first-learning-block/">&lt;p&gt;After organizing the &lt;a href=&quot;https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban&quot;&gt;learning Front-end development project&lt;/a&gt;, I am going to start learning about Preprocessors (Sass for CSS and Jade or HAML for HTML), Postprocessors (PostCSS) and automatic workflow (with Gulp or Grunt):&lt;/p&gt;
