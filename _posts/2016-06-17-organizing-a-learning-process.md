@@ -17,7 +17,7 @@ I use 2 types of calendar that I add to a physical board. The first is the usual
 
 The bad thing about the second board is that I don't usually know how many tasks I will accomplish in a month and I would like to reorganize order of tasks in a visual way. 
 
-For that, I am going to start using Kanban with the open source tool <a href="https://taiga.io/"Taiga</a>. In the <a href="https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban">learning Front-end development project</a> I will add each task that I would like to accomplish in a user story. In the first version I am adding all the tasks, ideas and resources in the TO-DO column, I don't know if I will separate them in some way to distinguish which kind of task is.
+For that, I am going to start using Kanban with the open source tool <a href="https://taiga.io/">Taiga</a>. In the <a href="https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban">learning Front-end development project</a> I will add each task that I would like to accomplish in a user story. In the first version I am adding all the tasks, ideas and resources in the TO-DO column, I don't know if I will separate them in some way to distinguish which kind of task is.
 
 The organization in the Kanban board is the usual for this method, that is, columns TO-DO, DOING and DONE. However, I have added a ADD-TO-BLOG column to write a little explanation, example or conclusion in the blog after finishing doing each task. This way, other people can take advantage of the time inverted there.
 
