@@ -21,7 +21,7 @@ Is my behaviour something related to multipotentialite? Do I want to learn very 
 By the way, this is the first kind of "comic-illustration" to explain what had happened these two weeks. I think Illustrators don't have to be afraid of a new rival ;) And don't worry Sass, tomorrow we see each other again :)
 
 
-<img src="../images/blog/challenges_learning.jpg" alt="Learning challenges comic" />
+<img src="../images/blog/challenges_learning_comic.jpg" alt="Learning challenges comic" />
 
 Inspired in the content of <a href="https://twitter.com/taigaio">@taigaio</a> kanban, the twitter profiles from <a href="https://twitter.com/frannerd">@frannerd</a> and <a href="https://twitter.com/WheresMyBubble">@WheresMyBubble</a>, the youtube channel of <a href="https://www.youtube.com/user/frannerd13">Fran Meneses</a> and <a href="https://twitter.com/Google">@Google</a>.
 
