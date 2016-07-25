@@ -18,20 +18,10 @@ A couple of weeks ago I organized the learning project and last week I started m
 
 Is my behaviour something related to multipotentialite? Do I want to learn very different things and I can't focus in only one? Or is it maybe procrastination because I am afraid I won't improve my skills after the learning project?
 
-By the way, this is the first kind of "comic-illustration" to explain what had happened these two weeks. I have done a collage until I have more skills for this, but I think Illustrators don't have to be afraid of a new rival ;) And don't worry Sass, tomorrow we see each other again :)
+By the way, this is the first kind of "comic-illustration" to explain what had happened these two weeks. I think Illustrators don't have to be afraid of a new rival ;) And don't worry Sass, tomorrow we see each other again :)
 
 
-<img src="../images/blog/challenges_learning.jpg" alt="Learning challenges comic collage" />
+<img src="../images/blog/challenges_learning.jpg" alt="Learning challenges comic" />
 
-Images from <a href="https://twitter.com/taigaio">@taigaio</a>, <a href="https://twitter.com/frannerd">@frannerd</a>, <a href="https://twitter.com/WheresMyBubble">@WheresMyBubble</a>, <a href="https://twitter.com/YouTube">@YouTube</a> and <a href="https://twitter.com/Google">@Google</a>.
+Inspired in the content of <a href="https://twitter.com/taigaio">@taigaio</a> kanban, the twitter profiles from <a href="https://twitter.com/frannerd">@frannerd</a> and <a href="https://twitter.com/WheresMyBubble">@WheresMyBubble</a>, the youtube channel of <a href="https://www.youtube.com/user/frannerd13">Fran Meneses</a> and <a href="https://twitter.com/Google">@Google</a>.
 
-<br>
-
----
-
-Note: How I did it?
-
-- Take a picture of each comic box
-- GIMP: tools - Selection tools - Rectangular selection & Cut to the selection
-- GIMP: Colors - Auto - Balance of whites
-- Inkscape: New document with transparent background, create rectangle and duplicate it and import comics and screenshots.  
