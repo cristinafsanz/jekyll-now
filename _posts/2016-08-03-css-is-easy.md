@@ -12,4 +12,4 @@ Inspired by:
 
 - <a href="https://twitter.com/iamdevloper/status/753716544949981184?s=03">CSS is easy by @iamdevloper</a>
 
-- <a href="http://octuweb.com/trabajar-css-2015>Work with CSS by @@nabaroa (in Spanish)</a>
+- <a href="http://octuweb.com/trabajar-css-2015">Work with CSS by @@nabaroa (in Spanish)</a>
