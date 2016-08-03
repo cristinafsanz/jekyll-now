@@ -4,7 +4,7 @@ title: How a new idea emerges
 date: 2016-07-01
 ---
 
-After months of learning things that I don't really need right now, like German or theory of graphic design, I have realized that I am focus now on improving in my career, which is great. But how did I get here?
+Last weeks I have realized that I am focus now on improving in my career, which is great. But how did I get here?
 
 As Steve Jobs said, "You can't connect the dots looking forward; you can only connect them looking backwards", so I have looked for the dots in twitter :)
 
@@ -13,7 +13,7 @@ A few months ago I joined the meetup group <a href="http://www.meetup.com/es-ES/
 <div class="embed twitter"><blockquote class="twitter-tweet" align="center"><p lang="es" dir="ltr">Mi lista de tareas para mejorar en <a href="https://twitter.com/hashtag/frontend?src=hash">#frontend</a> se está pareciendo ya a la pared de ‘Una mente maravillosa&#39; :) <a href="https://twitter.com/hashtag/css?src=hash">#css</a> <a href="https://twitter.com/hashtag/ux?src=hash">#ux</a> <a href="https://t.co/vssfXJiNXT">pic.twitter.com/vssfXJiNXT</a></p>&mdash; Cristina Fernández (@cristinafsanz) <a href="https://twitter.com/cristinafsanz/status/730417793389178880">May 11, 2016</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-I didn't really have a plan to improve in front-end development until a very bad weeks at work when I saw myself unemployed. I had the idea back then (in the shower, where all the ideas come from) to do a talk about moving from back-end to front-end development and take advantage of it to put pressure on me and improve in these months.
+I didn't really have a plan to improve in front-end development until a very bad weeks at work. I had the idea back then (in the shower, where all the ideas come from) to do a talk about moving from back-end to front-end development and take advantage of it to put pressure on me and improve in these months.
 
 <div class="embed twitter"><blockquote class="twitter-tweet" align="center"><p lang="es" dir="ltr">Presentada charla para <a href="https://twitter.com/hashtag/codemotion_es?src=hash">#codemotion_es</a>, a ver si este año somos más mujeres <a href="https://t.co/WSPNHIsUey">https://t.co/WSPNHIsUey</a> <a href="https://twitter.com/hashtag/ILookLikeAnEngineer?src=hash">#ILookLikeAnEngineer</a> <a href="https://twitter.com/hashtag/womenInTech?src=hash">#womenInTech</a></p>&mdash; Cristina Fernández (@cristinafsanz) <a href="https://twitter.com/cristinafsanz/status/740626334368563200">June 8, 2016</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
@@ -31,6 +31,10 @@ So I decided to write about each task in my blog and share the idea:
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 What you can learn here is that a bad event can turn into something good and that I like to share in twitter the day 11 of each month, so pay attention to July 11th ;)
+
+By the way, this is a comic about the story of sending resources to the mailbox of my "future self":
+
+<img src="../images/blog/forYourFutureSelf.jpg" alt="Your future self" />
 
 <br>
 
