@@ -19,7 +19,9 @@ title: Projects
     <img src="{{ site.baseurl }}/images/look-up-and-show-you-madrid.jpg" />
   </a>
   <div class="explanation">
-    After that, I discovered Bootstrap and I wanted to create another web page using this framework. Currently I live in Madrid and I like to go for a walk in the city and discover new places, so I had the idea to take photographs to some nice buildings and put them together in a web page. This is the result.
+    <p>After that, I discovered Bootstrap and I wanted to create another web page using this framework. Currently I live in Madrid and I like to go for a walk in the city and discover new places, so I had the idea to take photographs to some nice buildings and put them together in a web page. This is the result.</p>
+    <p>P.S. After learning more front-end development, I discovered that <b>Bootstrap is not a good way to do web design</b>. For more information, see these <a href="https://docs.google.com/presentation/d/1rZkhptFfhwNEmp3k7BKgRPk4b0eNck__nWWjJldxaTk/edit#slide=id.p4">slides</a>.</p>	
+    
   </div>
 </div>
 
