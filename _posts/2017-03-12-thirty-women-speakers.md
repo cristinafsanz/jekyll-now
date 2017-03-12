@@ -14,12 +14,14 @@ I did the <a href="https://docs.google.com/presentation/d/1P6h7f-LoZFA4r7hCydSce
 
 These are some moments from yesterday:
 
-<a href="https://twitter.com/i/videos/840595421357576192">Small video of my talk (in Spanish)</a>
+- <a href="https://twitter.com/i/videos/840595421357576192">Small video of my talk (in Spanish)</a>
 
-Speakers and organizing committee:
+- Speakers and organizing committee:
+
 <img src="../images/blog/speakers-campus-madrid.jpg" alt="Speakers in Campus Madrid" />
 
-Waiting to start my talk:
+- Waiting to start my talk:
+
 <img src="../images/blog/talk.jpg" alt="Fantastic tricks talk" />
 
 
