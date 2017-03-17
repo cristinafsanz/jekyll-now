@@ -18,7 +18,7 @@ These are some moments from yesterday (almost all the photos are from <a href="h
 
 <img src="../images/blog/speakers-campus-madrid.jpg" alt="Speakers in Campus Madrid" />
 
-- My friends before the event, thanks for coming!
+- My friends in the conference, thanks for coming!
 
 <img src="../images/blog/friends.jpg" alt="Friends talking at lunch" />
 
@@ -42,7 +42,7 @@ These are some moments from yesterday (almost all the photos are from <a href="h
 
 <img src="../images/blog/talk_people.jpg" alt="People attending" />
 
-- Meeting very nice people from twitter in real life (desvirtualizing moment): 
+- Meeting very nice people from twitter in real life (the desvirtualizing moment): 
 
 <img src="../images/blog/meetingPeople1.jpg" alt="Some nice people talking to me" />
 
