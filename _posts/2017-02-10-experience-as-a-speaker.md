@@ -21,3 +21,7 @@ And thanks to this talk I found out that part of this blog has been useful to so
 So this has been a good experience and I will appreciate much more when someone becomes a speaker, it is not easy at all! 
 
 Thanks to the T3chFest organization for selecting my talk and do an awesome event and to <a href="https://twitter.com/sailormercury91">Nerea Luis</a> for telling me that it would be all right, at the end it was true.
+
+- Image of my talk:
+
+<img src="../images/blog/t3chfest_talk.jpg" alt="Fantastic tricks talk" />

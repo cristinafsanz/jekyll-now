@@ -12,19 +12,42 @@ All the talks were recorded by <a href="https://www.youtube.com/user/AutentiaMed
 
 I did the <a href="https://docs.google.com/presentation/d/1P6h7f-LoZFA4r7hCydScep8u39k80x85hLt5I4tNI_0/edit#slide=id.g35f391192_00">Fantastic tricks and where to find them</a> talk again, I wanted to do it there, I love the initiative and I wanted to be part of it.
 
-These are some moments from yesterday:
-
-- <a href="https://twitter.com/i/videos/840595421357576192">Small video of my talk (in Spanish)</a>
+These are some moments from yesterday (almost all the photos are from <a href="https://twitter.com/LauraLacarra">Laura Lacarra</a>, thank you very much).
 
 - Speakers and organizing committee:
 
 <img src="../images/blog/speakers-campus-madrid.jpg" alt="Speakers in Campus Madrid" />
 
+- My friends before the event, thanks for coming!
+
+<img src="../images/blog/friends.jpg" alt="Friends talking at lunch" />
+
+<img src="../images/blog/lauraDiaz.jpg" alt="Friends talking at lunch" />
+
+- The best talk of the day:
+
+<img src="../images/blog/lauraLacarra.jpg" alt="Laura Lacarra in her talk" />
+
+- <a href="https://twitter.com/i/videos/840595421357576192">Small video of my talk, recorded by @Mindfac_ (in Spanish)</a>.
+
 - Waiting to start my talk:
 
-<img src="../images/blog/talk.jpg" alt="Fantastic tricks talk" />
+<img src="../images/blog/beforeTalk.jpg" alt="Fantastic tricks talk" />
 
+- Smiling at my own talk? The people attending at my talk were very nice :)
 
-And these are all the Women Speakers in the conference:
+<img src="../images/blog/enjoyingTalk.jpg" alt="Enyoing the talk" />
+
+- People listening to my tricks:
+
+<img src="../images/blog/talk_people.jpg" alt="People attending" />
+
+- Meeting very nice people from twitter in real life (desvirtualizing moment): 
+
+<img src="../images/blog/meetingPeople1.jpg" alt="Some nice people talking to me" />
+
+<img src="../images/blog/meetingPeople2.jpg" alt="Same people talking to me in another angle" />
+
+- And these are all the Women Speakers in the conference:
 
 <img src="../images/blog/wtmmadrid-speakers.jpg" alt="WTM Madrid Speakers" />
