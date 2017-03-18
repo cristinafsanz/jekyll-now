@@ -49,6 +49,10 @@ url: http://cristinafsanz.github.io/projects/
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/projects"
+imageProject: "projects.jpg"
+imageTalk: "women_techmakers_talk.jpg"
+imageAbout: "journey.jpg"
+imageBlog: "writing.jpg"
 
 info:
     sharing:

@@ -1,0 +1,35 @@
+---
+layout: defaultConferences
+title: Conferences
+permalink: /conferences/
+---
+
+# Conferences
+
+I have done the "Fantastic tricks and where to find them" talk in 2 conferences, <a href="https://t3chfest.uc3m.es/2017/programa/trucos-fantasticos-donde-encontrarlos/">T3chfest</a> and <a href="http://wtm.gdgmadrid.es/agenda/cristina-fernandez-trucosfantasticos.html">Women Techmakers Madrid</a>.
+
+In this talk I wanted to share some resources to start as a front-end developer, although a lot of them can be used in other fields as well.
+
+I mix the Harry Potter universe and the front-end development world and I enumerate some tricks to learn:
+
+- Learn the basics and good practices.
+
+- Add some tools to help your daily work.
+
+- Organize yourself.
+
+- Go to conferences and meetups. Do some courses and workshops. Read articles. Listen to podcasts. Inspire yourself with websites.
+
+- Practice while you learn, code in Codepen or GitHub Pages to share your work anywhere.
+
+- Don't try to learn everything at once and look for companies that help with learning.
+
+### Slides
+
+- <a href="https://docs.google.com/presentation/d/1rZkhptFfhwNEmp3k7BKgRPk4b0eNck__nWWjJldxaTk/edit">Google Slides for T3chfest</a>.
+
+ - <a href="https://docs.google.com/presentation/d/1P6h7f-LoZFA4r7hCydScep8u39k80x85hLt5I4tNI_0/edit#slide=id.g35f391192_00">Google Slides for Women Techmakers Madrid</a>.
+
+### Videos
+
+- <a href="https://www.youtube.com/watch?v=A6kjwNXyobU&t=38s">Video from T3chfest</a>.
