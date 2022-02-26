@@ -20,6 +20,3 @@ I learnt the basis of HTML5 & CSS2-CSS3 in a course in 2013/2014, but you can do
     
 * Advanced course:
     - <a href="http://learn.shayhowe.com/advanced-html-css/performance-organization/">Learn advanced HTML & CSS</a>
-
-* Bonus track for kids (specially for Amelia, she found this awesome resource!):
-    - <a href="https://www.smartadvocate.com/News/Blog/software-programming-and-coding-glossary-for-kids">Software Programming and Coding Glossary for Kids</a>
